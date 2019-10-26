@@ -1,6 +1,6 @@
 # sellapp
 
-## sellappÍâÂô setup
+## sellapp setup
 ```
 yarn install
 ```
